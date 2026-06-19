@@ -1,0 +1,16 @@
+{
+  "extracted_claim": "unknown",
+  "evidence_standard_met": false,
+  "evidence_standard_met_reason": "Mock mode cannot inspect visual damage evidence.",
+  "risk_flags": [
+    "manual_review_required"
+  ],
+  "issue_type": "unknown",
+  "object_part": "unknown",
+  "claim_status": "not_enough_information",
+  "claim_status_justification": "Offline mock mode does not perform visual review; use Gemini for final predictions.",
+  "supporting_image_ids": [],
+  "valid_image": true,
+  "severity": "unknown",
+  "confidence": 0.0
+}
